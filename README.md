@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Um pacote de ícones limpo e bonito para Visual Studio Code.
+  Um pacote de ícones limpo e bonito para Visual Studio Cod
 </h3>
 
 <p align="center">
